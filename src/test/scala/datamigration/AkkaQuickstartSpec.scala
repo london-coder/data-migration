@@ -1,5 +1,5 @@
 //#full-example
-package com.scp.dm
+package datamigration
 
 import org.scalatest.{ BeforeAndAfterAll, WordSpecLike, Matchers }
 import akka.actor.ActorSystem
